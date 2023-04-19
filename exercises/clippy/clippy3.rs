@@ -18,7 +18,4 @@ fn main() {
     let mut value_a = 45;
     let mut value_b = 66;
     // Let's swap these two!
-    value_a = value_b;
-    value_b = value_a;
-    println!("value a: {}; value b: {}", value_a, value_b);
 }
